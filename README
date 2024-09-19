@@ -1,0 +1,10 @@
+A PKGBUILD file is provided to build this for Arch-based GNU/Linux distributions.
+This file is modified form of an AUR
+package: https://aur.archlinux.org/packages/epson-inkjet-printer-escpr
+
+
+These files are obtained from the official website, specifically:
+http://support.epson.net/linux/Printer/LSB_distribution_pages/en/escpr.php
+
+For other drivers search them here:
+http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
